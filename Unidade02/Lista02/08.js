@@ -1,5 +1,5 @@
 var pessoas = [];
-for (let i = 1; i <= 2; i++){
+for (let i = 1; i <= 25; i++){
   console.log(`\n---> Dados da pessoa ${i} <---\n`)
   var idade = parseInt(prompt('Digite a idade da pessoa'));
   var peso = parseFloat(prompt('Digite o peso da pessoa'));
